@@ -4,7 +4,8 @@
  * [OpenTTD](https://github.com/OpenTTD/OpenTTD), [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2), [OpenLoco](https://github.com/OpenLoco/OpenLoco) Korean translation maintainer
  * [Parkitect](https://store.steampowered.com/app/453090/Parkitect) Korean translator
  * Live in Seoul, South Korea
- * Live as a Twitch streamer recently
+ * Twitch streamer
+ * Web Developer (major: PHP)
 
 <div align=center>
 
